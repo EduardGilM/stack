@@ -1,0 +1,9 @@
+# Conservar la skill distribuible aunque un repositorio contenedor ignore .agents.
+!.agents/
+!.agents/skills/
+!.agents/skills/trace-style/
+
+# Archivos locales de instalación y herramientas.
+node_modules/
+skills-lock.json
+.DS_Store
